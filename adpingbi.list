@@ -7,6 +7,7 @@ DOMAIN,crs.cr.adobe.com
 
 #屏蔽cdr联网验证
 DOMAIN-SUFFIX,corel.com
-DOMAIN-SUFFIX,ecutsoft.com
 DOMAIN-SUFFIX,e-cut.ru
+DOMAIN-SUFFIX,e-cut.hk
+DOMAIN-SUFFIX,ecutsoft.com
 DOMAIN-SUFFIX,mcneel.com

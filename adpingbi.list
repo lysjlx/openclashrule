@@ -1,5 +1,12 @@
+#屏蔽adobe验证
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,adobestats.io
 DOMAIN-SUFFIX,hstatic.io
+DOMAIN-SUFFIX,adobegenuine.com
 DOMAIN,crs.cr.adobe.com
-DOMAIN-SUFFIX,baidu.com
+
+#屏蔽cdr联网验证
+DOMAIN-SUFFIX,corel.com
+DOMAIN-SUFFIX,ecutsoft.com
+DOMAIN-SUFFIX,e-cut.ru
+DOMAIN-SUFFIX,mcneel.com
